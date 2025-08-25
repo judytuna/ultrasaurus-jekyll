@@ -1,0 +1,141 @@
+---
+---
+
+@import "minima";
+
+// Custom styles for ultrasaurus blog
+.site-header {
+  border-top: 5px solid #424242;
+  border-bottom: 1px solid #e8e8e8;
+  background-color: #fdfdfd;
+  
+  .site-title {
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 54px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    color: #424242;
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+  
+  > li {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  
+  .post-meta {
+    font-size: 14px;
+    color: #828282;
+  }
+  
+  .post-link {
+    display: block;
+    font-size: 24px;
+    color: #111;
+    text-decoration: none;
+    
+    &:hover {
+      color: #2a7ae4;
+      text-decoration: none;
+    }
+  }
+  
+  .post-excerpt {
+    margin: 10px 0;
+    color: #555;
+    line-height: 1.5;
+  }
+}
+
+.post-tags, .tag {
+  .tag {
+    display: inline-block;
+    background-color: #f5f5f5;
+    padding: 2px 8px;
+    margin: 2px;
+    font-size: 12px;
+    border-radius: 3px;
+    color: #666;
+  }
+}
+
+.post-navigation {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid #e8e8e8;
+  
+  .prev, .next {
+    color: #2a7ae4;
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  
+  .prev {
+    float: left;
+  }
+  
+  .next {
+    float: right;
+  }
+}
+
+.pagination {
+  margin: 40px 0;
+  text-align: center;
+  
+  .previous, .next {
+    color: #2a7ae4;
+    text-decoration: none;
+    padding: 8px 16px;
+    margin: 0 4px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    
+    &:hover {
+      background-color: #f5f5f5;
+    }
+  }
+  
+  .page-numbers {
+    margin: 0 20px;
+    color: #666;
+  }
+}
+
+// Code syntax highlighting
+pre, code {
+  background-color: #f8f8f8;
+  border: 1px solid #e1e1e8;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+  border-radius: 3px;
+  
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+code {
+  padding: 1px 5px;
+  font-size: 85%;
+  border-radius: 3px;
+}

@@ -9,6 +9,7 @@ This is a static site recreation of ultrasaurus.com using Jekyll, designed for d
 ├── Gemfile              # Ruby dependencies
 ├── index.html           # Homepage with post list
 ├── about.md             # About page
+├── ultrasaurus.md       # What is an ultrasaurus? page
 ├── _layouts/            # Page layouts
 │   ├── default.html     # Base layout
 │   ├── post.html        # Blog post layout
@@ -16,8 +17,6 @@ This is a static site recreation of ultrasaurus.com using Jekyll, designed for d
 ├── _posts/              # Blog posts in Markdown
 ├── assets/
 │   └── main.scss        # Main stylesheet
-└── about/
-    └── ultrasaurus.md   # Origin of site name
 ```
 
 ## Getting Started
@@ -145,6 +144,7 @@ This recreation includes:
 ✅ **Included:**
 - Main blog structure and navigation
 - About page with bio and site origin story
+- Ultrasaurus page explaining the site name origin
 - Sample posts representing the variety of content
 - Responsive design suitable for modern browsers
 - SEO-friendly URLs and meta tags
