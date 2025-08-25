@@ -1,0 +1,60 @@
+# Site configuration for ultrasaurus.com clone
+title: "the evolving ultrasaurus"
+description: "Sarah Allen's reflections on internet software and other topics"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: "Sarah Allen"
+  email: "sarah@ultrasaurus.com"
+  bio: "Technical leader and open source contributor. Founded Blazing Cloud and Bridge Foundry. Former Presidential Innovation Fellow."
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Permalink structure
+permalink: /:year/:month/:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# Pagination
+paginate: 10
+paginate_path: "/page/:num/"
+
+# Collections for organizing content
+collections:
+  speaking:
+    output: true
+    permalink: /:collection/:name/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - README.md
+  - LICENSE
+
+# Default values
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "sarah"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
