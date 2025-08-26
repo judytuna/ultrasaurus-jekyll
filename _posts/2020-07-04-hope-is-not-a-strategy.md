@@ -13,7 +13,25 @@ It was May 25th, the day I remember grieving for my lost life, text chatting wit
 
 It's not that I gave up hope, it's just that thinking about any specific hope for the future was just not helpful. Recently, my brother shared a poem that captured this experience well:
 
-*[The post includes a poem by Elena Mikhalkova from "The Room of Ancient Keys" about moving forward in small steps during difficult times, focusing on simple daily tasks rather than worrying about the future.]*
+My grandmother once gave me a tip:
+In difficult times, you move forward in small steps.
+Do what you have to do, but little by little.
+Don’t think about the future, or what may happen tomorrow.
+Wash the dishes.
+Remove the dust.
+Write a letter.
+Make a soup.
+You see?
+You are advancing step by step.
+Take a step and stop.
+Rest a little.
+Praise yourself.
+Take another step.
+Then another.
+You won’t notice, but your steps will grow more and more.
+And the time will come when you can think about the future without crying.
+
+— Elena Mikhalkova, The Room of Ancient Keys
 
 The poem's wisdom about taking small steps resonated deeply - "Wash the dishes. Remove the dust. Write a letter. Make a soup... You are advancing step by step."
 
