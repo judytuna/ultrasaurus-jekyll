@@ -1,0 +1,20 @@
+---
+layout: post
+title: "hope is not a strategy"
+date: 2020-07-04
+tags: [personal, recovery, resilience, health]
+---
+
+"Yeah I think I got to the limit of my bargaining … getting to end of May, and when I didn't seem to get past my last best day which was 2 weeks ago"
+
+It was May 25th, the day I remember grieving for my lost life, text chatting with my flu buddy about the five stages of grief: denial, anger, bargaining, depression and acceptance.
+
+"I think the thing is that I have to learn to live with this — I can't just keep expecting, waiting to suddenly get better." I stopped making plans beyond "rest, walk a little, rest, eat a little, rest…" in achingly slow motion, on a good day I could send an email and talk on the phone to a friend.
+
+It's not that I gave up hope, it's just that thinking about any specific hope for the future was just not helpful. Recently, my brother shared a poem that captured this experience well:
+
+*[The post includes a poem by Elena Mikhalkova from "The Room of Ancient Keys" about moving forward in small steps during difficult times, focusing on simple daily tasks rather than worrying about the future.]*
+
+The poem's wisdom about taking small steps resonated deeply - "Wash the dishes. Remove the dust. Write a letter. Make a soup... You are advancing step by step."
+
+I couldn't find anything else written by Elena Mikhalkova that has been translated into English. I'd love to hear about it if her books or any of her other poems is ever translated.
